@@ -1,0 +1,16 @@
+Be Sure That The Follwings Libraries are installed:
+streamlit
+pandas 
+numpy
+siketlearn
+tensorflow
+XGBoost
+
+How To use:
+open The Folder with vscode,pycharm or any python intpreter.
+open the code file called app.py and in the terminal write streamlit run app.py and be sure that the Directory of the file in the terminal.
+Now in the interface you will see at the left upload cv file -> upload the csv file heart.csv that in the folder.
+Now you can enjoy and try the models.   
+
+
+ 
